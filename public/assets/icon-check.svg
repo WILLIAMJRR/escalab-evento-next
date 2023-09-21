@@ -1,0 +1,10 @@
+<svg id="icon-check" width="42px" height="42px" viewbox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+                    <g transform="translate(-629.000000, -340.000000)" stroke="#00C5B4" stroke-width="2">
+                        <g transform="translate(630.000000, 341.000000)">
+                            <path id="Path" d="M40,18.1712692 L40,20.0111477 C39.9949356,28.8679343 34.1646044,36.6664733 25.6707453,39.1776833 C17.1768862,41.6888934 8.04287731,38.3145627 3.222014,30.884562 C-1.59884932,23.4545613 -0.958157484,13.73884 4.79664777,7.00615113 C10.551453,0.273462265 20.0494816,-1.87235602 28.1400335,1.73235526"></path>
+                            <polyline id="Path" points="40 4.01220464 20.0000565 24.0308821 14.0000734 18.0312785"></polyline>
+                        </g>
+                    </g>
+                </g>
+            </svg>
