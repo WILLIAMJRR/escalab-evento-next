@@ -2,7 +2,7 @@ import './globals.css'
 
 export const metadata = {
   title: 'Escalab_tech',
-  description: 'Obtiene la certificación de Azure Fundamentals para la gestión de la nube a nivel empresarial',
+  description: 'Potencia a tu equipo con certificaciones de Microsoft',
   openGraph: {
     url: '',
     siteName: '',
