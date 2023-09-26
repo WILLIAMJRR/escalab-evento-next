@@ -44,6 +44,19 @@ const Contain = ({ dataEvents }) => {
           <div>
             <p>{dataEvents[0].Direccion.info}</p>
           </div>
+          <div className='agenda'>
+            <h5>{dataEvents[0].agenda.title}</h5>
+            {
+              dataEvents[0].agenda.info.map((itinerario, i) => (
+                <ul key={i}>
+                  <li>
+                    <span>{itinerario.hour}</span>
+                    {itinerario.description}
+                  </li>
+                </ul>
+              ))
+            }
+          </div>
           <div className='sponsor'>
             {dataEvents[0].sponsor.map((sponsored, key) => (
               <div className='contain__image' key={key}>

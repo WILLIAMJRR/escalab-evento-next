@@ -60,6 +60,8 @@ export const InfoFreeCourseContain = styled.section`
             }
         }
         div:nth-child(2) {
+            display:flex;
+            flex-direction:column;
             height: auto;
             padding: 30px;
 
@@ -73,9 +75,37 @@ export const InfoFreeCourseContain = styled.section`
                 line-height: 27.5px;
                 color: #404a61;
                 font-weight: 300;
+                margin-bottom:2rem;
+
 
                 @media (max-width: 600px) {
                     font-size: 14px;
+                }
+            }
+            h4{
+                font-size: 1.2rem;
+                line-height: 27.5px;
+                color: #404a61;
+                font-weight: 600;
+                margin-bottom:1.5rem;
+
+
+                @media (max-width: 600px) {
+                    font-size: 18px;
+                    margin-bottom:0.2rem;
+                }
+            }
+            h5{
+                font-size: 1rem;
+                line-height: 27.5px;
+                color: #404a61;
+                font-weight: 600;
+                margin-bottom:1.5rem;
+
+
+                @media (max-width: 600px) {
+                    font-size: 14px;
+                    margin-bottom:0.2rem;
                 }
             }
         }
