@@ -10,7 +10,7 @@ export const HeaderFreeCourseContain = styled.section`
     position: relative;
     margin-top: 63px;
     width: 100%;
-    height: 500px;
+    height: 580px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -18,7 +18,7 @@ export const HeaderFreeCourseContain = styled.section`
     background: ${variables.colors.darkBlue};
 
     @media (max-width: 600px) {
-        height: 110vh;
+        height: 145vh;
     }
 
     .headerContainElements {
@@ -58,7 +58,7 @@ export const HeaderFreeCourseContain = styled.section`
             }
             .moveImage {
                 position: absolute;
-                bottom: -23px;
+                bottom: -65px;
                 height: 100%;
                 object-fit: contain;
                 animation: ${animationMentor} 5s 0.2s ease-in-out infinite;
@@ -235,6 +235,38 @@ export const HeaderFreeCourseContain = styled.section`
                     }
                 }
             }
+        }
+        .agenda{
+            color:white;
+            display:flex;
+            flex-direction:column;
+
+            @media (max-width: 600px) {
+                       padding:0 0.5rem
+                    }
+
+            h5{
+
+            @media (max-width: 600px) {
+                text-align:center;
+                    }
+            }
+
+            ul{
+                display:flex;
+                flex-direction:column;
+                gap:1rem;
+                li{
+                    display:flex;
+                    flex-direction:row;
+                    gap:1rem;
+                    font-size:14px;
+                    font-weight:300;
+                    color:#fff;
+
+                }
+            }
+
         }
     }
 
