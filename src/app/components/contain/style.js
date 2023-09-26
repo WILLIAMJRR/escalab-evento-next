@@ -10,7 +10,7 @@ export const HeaderFreeCourseContain = styled.section`
     position: relative;
     margin-top: 63px;
     width: 100%;
-    height: 580px;
+    height: auto;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -73,6 +73,7 @@ export const HeaderFreeCourseContain = styled.section`
             width: 60%;
             min-width: 360px;
             height: 100%;
+            margin:1rem 1rem;
             display: flex;
             justify-content: center;
             align-items: flex-start;
@@ -95,7 +96,7 @@ export const HeaderFreeCourseContain = styled.section`
                     justify-content: center;
                 }
                 h3 {
-                     font-weight:600;
+                    font-weight:600;
                     @media (max-width: 600px) {
                         display: flex;
                         justify-content: center;
@@ -135,10 +136,12 @@ export const HeaderFreeCourseContain = styled.section`
                 font-size: 41px;
                 color: #fff;
 
+
                 @media (max-width: 600px) {
                     width: auto;
                     font-size: 35px;
                     text-align: center;
+                    padding:0 0.2rem;
                 }
                 .TextStrong {
                     font-weight: 700;
