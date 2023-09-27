@@ -1,7 +1,7 @@
 import './globals.css'
 
 export const metadata = {
-  title: 'Escalab_tech',
+  title: 'Potencia a tu equipo con certificaciones de Microsoft | Escalab',
   description: 'Introducción a infraestructura Cloud con Microsoft Azure para equipos de tecnología. Martes 10 de octubre 18:00 a 20:00 hrs. Cupos limitados. Regístrate',
   openGraph: {
     url: '',
