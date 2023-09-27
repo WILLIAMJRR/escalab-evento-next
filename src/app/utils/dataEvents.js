@@ -70,20 +70,20 @@ const dataEvents = [
       title: 'AGENDA',
       info: [
         {
-          hour: '18:00 - 18:15',
+          hour: '18:00',
           description: 'Registro y bienvenida'
         },
         {
-          hour: '18:15 - 19:00',
+          hour: '18:15 ',
           description: 'Inicio de Charla Azure  (Microsoft)'
         },
         {
-          hour: '19:00 - 19:15',
-          description: ' bebidas, cervezas y pizzas'
+          hour: '19:00 ',
+          description: 'Networking, bebidas, cervezas y pizzas'
         },
         {
-          hour: '19:15- 19:45',
-          description: 'Networking y cierre del evento'
+          hour: '19:45',
+          description: 'Cierre del evento'
         }
       ]
     }
