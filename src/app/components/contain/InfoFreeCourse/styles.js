@@ -99,7 +99,7 @@ export const InfoFreeCourseContain = styled.section`
                 font-size: 1rem;
                 line-height: 27.5px;
                 color: #404a61;
-                font-weight: 600;
+                font-weight: 400;
                 margin-bottom:1.5rem;
 
 
