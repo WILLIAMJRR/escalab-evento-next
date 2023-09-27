@@ -11,7 +11,7 @@ const Footer = () => {
         </figure>
 
         <AboutProduct>
-          <div className='text'>
+          {/* <div className='text'>
             <h2>Para Empresas</h2>
             <p>Contratar Developers</p>
             <p>Marketplace de reclutamiento</p>
@@ -33,7 +33,7 @@ const Footer = () => {
             <p>Sobre nosotros</p>
             <p>Programa +500 Digital</p>
             <p>Agenda una llamada</p>
-          </div>
+          </div> */}
 
           <div className='social'>
             <h2>Siguenos</h2>

@@ -48,7 +48,7 @@ const dataEvents = [
 
           description: 'Tanto si es nuevo en este campo como si es un profesional con experiencia, dominar los conceptos básicos de Microsoft Azure puede ayudarle a empezar a trabajar y prepararse para profundizar en las muchas oportunidades técnicas que ofrece Azure a nivel empresarial.',
 
-          title: '¿REALMENTE SIRVEN LAS CERTIFICACIONES ?',
+          title: '¿Realmente sirven las certificaciones ?',
           parrafo1: ' En un mundo altamente competitivo, donde día a día más empresas comienzan a migrar sus operaciones entorno a la tecnología, es clave tener equipos y colaboradores altamente preparados en conocimientos específicos, que puedan ser un agente diferenciador en la toma de decisiones y propuesta de valor de la empresa.',
 
           parrafo2: 'Microsoft Azure es una de las plataformas de computación en la nube más utilizadas por las empresas para construir, probar, desplegar y administrar aplicaciones o servicios.',
@@ -59,7 +59,7 @@ const dataEvents = [
 
           parrafo5: 'De esto y mucho más, hablaremos este próximo 10 de octubre a las 18:00 Hrs.en las oficinas de Microsoft, ubicadas en Av.Vitacura 6844. Vitacura.En donde Carlos Sarmiento experto en Cloud nos relatara los principales beneficios, costos y oportunidades que nos puede ofrecer Azure y las certificaciones en torno a esta herramienta.',
 
-          parrafo6: 'Si eres un líder de equipo tecnológico o tienes una empresa que trabaje con herramientas tecnológicas te invitamos a nuestro este evento a descubrir cómo esta certificación puede llevar sus equipos a escalar al siguiente nivel.'
+          parrafo6: 'Si eres un líder de equipo tecnológico o tienes una empresa que trabaje con herramientas tecnológicas te invitamos a nuestro evento a descubrir cómo esta certificación puede llevar sus equipos a escalar al siguiente nivel.'
         }
       ]
     },
@@ -79,11 +79,11 @@ const dataEvents = [
         },
         {
           hour: '19:00 - 19:15',
-          description: 'Networking, bebidas, cervezas y pizzas'
+          description: ' bebidas, cervezas y pizzas'
         },
         {
           hour: '19:15- 19:45',
-          description: 'Cierre del evento'
+          description: 'Networking y cierre del evento'
         }
       ]
     }

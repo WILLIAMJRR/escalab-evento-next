@@ -2,21 +2,20 @@ import './globals.css'
 
 export const metadata = {
   title: 'Escalab_tech',
-  description: 'Potencia a tu equipo con certificaciones de Microsoft',
+  description: 'Introducción a infraestructura Cloud con Microsoft Azure para equipos de tecnología. Martes 10 de octubre 18:00 a 20:00 hrs. Cupos limitados. Regístrate',
   openGraph: {
     url: '',
     siteName: '',
     images: [
       {
-        url: '/assets/introduccion_azure/Cover-web-event.png',
+        url: '/assets/introduccion_azure/cover-evento.jpg',
         width: 30,
         height: 30
       },
       {
-        url: '/assets/introduccion_azure/Cover-web-event.png',
-        width: 400,
-        height: 400,
-        alt: 'My custom alt'
+        url: '/assets/introduccion_azure/cover-evento.jpg',
+        width: 300,
+        height: 300
       }
     ],
     locale: 'en_US',
