@@ -7,7 +7,7 @@ const dataEvents = [
       title: 'Potencia a tu equipo con certificaciones de',
       name: 'Microsoft',
       info: [
-        '10 Oct. 2023',
+        '19 Oct. 2023',
         '18:00 hrs CL',
         'PRESENCIAL',
         'Cupos limitados'
