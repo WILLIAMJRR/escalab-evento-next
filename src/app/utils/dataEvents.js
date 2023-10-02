@@ -14,7 +14,7 @@ const dataEvents = [
       ]
     },
     preSale: {
-      formId: '3203d455-982c-48f3-a396-a5c9b1ee9644',
+      formId: 'a292b9dd-4a16-44d9-8687-4a159159efa9',
       portalId: '23364787'
     },
     assets: {
@@ -44,7 +44,7 @@ const dataEvents = [
     InfoBox: {
       info: [
         {
-          header: 'Introducción a infraestructura Cloud con Microsoft Azure',
+          header: 'Prepárate para dominar la nube y hacer crecer tu negocio con Azure',
 
           description: 'Tanto si es nuevo en este campo como si es un profesional con experiencia, dominar los conceptos básicos de Microsoft Azure puede ayudarle a empezar a trabajar y prepararse para profundizar en las muchas oportunidades técnicas que ofrece Azure a nivel empresarial.',
 
@@ -57,7 +57,7 @@ const dataEvents = [
 
           parrafo4: '¿Sabías que teniendo las certificaciones medias y avanzadas en Azure puedes certificar a tus colaboradores como arquitecto de software en Azure ?',
 
-          parrafo5: 'De esto y mucho más, hablaremos este próximo 10 de octubre a las 18:00 Hrs.en las oficinas de Microsoft, ubicadas en Av.Vitacura 6844. Vitacura.En donde Carlos Sarmiento experto en Cloud nos relatara los principales beneficios, costos y oportunidades que nos puede ofrecer Azure y las certificaciones en torno a esta herramienta.',
+          parrafo5: 'De esto y mucho más, hablaremos este próximo 19 de octubre a las 18:00 Hrs.en las oficinas de Microsoft, ubicadas en Av.Vitacura 6844. Vitacura.En donde Carlos Sarmiento experto en Cloud nos relatara los principales beneficios, costos y oportunidades que nos puede ofrecer Azure y las certificaciones en torno a esta herramienta.',
 
           parrafo6: 'Si eres un líder de equipo tecnológico o tienes una empresa que trabaje con herramientas tecnológicas te invitamos a nuestro evento a descubrir cómo esta certificación puede llevar sus equipos a escalar al siguiente nivel.'
         }
