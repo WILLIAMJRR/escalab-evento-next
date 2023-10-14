@@ -67,7 +67,7 @@ const dataEvents = [
       info: ['Av. Vitacura 6844 , Vitacura. Santiago, Chile.']
     },
     agenda: {
-      title: 'AGENDA',
+      title: '📅 AGENDA',
       info: [
         {
           hour: '18:00',

@@ -4,7 +4,7 @@ const Nav = () => {
   return (
     <Navbar>
       <NavbarWrapperLogo>
-        <Link href='/pagina_mantenimiento'>
+        <Link href='https://escalab.tech/'>
           <img
             src='/assets/logoNav.svg'
             alt='Logo Escalab'
