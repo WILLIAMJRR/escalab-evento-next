@@ -7,14 +7,14 @@ const dataEvents = [
       title: 'Potencia a tu equipo con certificaciones de',
       name: 'Microsoft',
       info: [
-        '19 Oct. 2023',
-        '18:00 hrs CL',
+        '28 Nov. 2023',
+        '18:30 hrs CL',
         'PRESENCIAL',
         'Cupos limitados'
       ]
     },
     preSale: {
-      formId: 'a292b9dd-4a16-44d9-8687-4a159159efa9',
+      formId: 'ee523a8e-0bb7-4861-baa3-39a14eabaa52',
       portalId: '23364787'
     },
     assets: {
@@ -70,19 +70,19 @@ const dataEvents = [
       title: '📅 AGENDA',
       info: [
         {
-          hour: '18:00',
+          hour: '18:30',
           description: 'Registro y bienvenida'
         },
         {
-          hour: '18:15 ',
+          hour: '18:45 ',
           description: 'Inicio de Charla Azure  (Microsoft)'
         },
         {
-          hour: '19:00 ',
+          hour: '20:00 ',
           description: 'Networking, bebidas, cervezas y pizzas'
         },
         {
-          hour: '19:45',
+          hour: '20:30',
           description: 'Cierre del evento'
         }
       ]
