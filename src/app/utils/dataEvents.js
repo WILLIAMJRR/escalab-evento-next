@@ -57,7 +57,7 @@ const dataEvents = [
 
           parrafo4: '¿Sabías que teniendo las certificaciones medias y avanzadas en Azure puedes certificar a tus colaboradores como arquitecto de software en Azure ?',
 
-          parrafo5: 'De esto y mucho más, hablaremos este próximo 19 de octubre a las 18:00 Hrs.en las oficinas de Microsoft, ubicadas en Av.Vitacura 6844. Vitacura.En donde Carlos Sarmiento experto en Cloud nos relatara los principales beneficios, costos y oportunidades que nos puede ofrecer Azure y las certificaciones en torno a esta herramienta.',
+          parrafo5: 'De esto y mucho más, hablaremos este próximo 28 de noviembre a las 18:30 Hrs.en las oficinas de Microsoft, ubicadas en Av.Vitacura 6844. Vitacura.En donde Carlos Sarmiento experto en Cloud nos relatara los principales beneficios, costos y oportunidades que nos puede ofrecer Azure y las certificaciones en torno a esta herramienta.',
 
           parrafo6: 'Si eres un líder de equipo tecnológico o tienes una empresa que trabaje con herramientas tecnológicas te invitamos a nuestro evento a descubrir cómo esta certificación puede llevar sus equipos a escalar al siguiente nivel.'
         }

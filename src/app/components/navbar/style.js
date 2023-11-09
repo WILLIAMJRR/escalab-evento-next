@@ -36,6 +36,10 @@ export const Navbar = styled.nav`
             background-color: ${variables.colors.lightBlue};
             cursor: pointer;
 
+          @media (max-width: 600px) {
+                  width:50%;
+                }
+
             &.circled {
                 border-radius: 20px;
             }
