@@ -29,7 +29,7 @@ export const Navbar = styled.nav`
             border-radius: 5px;
             height: 40px;
             padding: 0 15px;
-            font-weight: 300;
+            font-weight: 300px;
             font-size: 1rem;
 
             color: ${variables.colors.titleColor};
@@ -37,7 +37,9 @@ export const Navbar = styled.nav`
             cursor: pointer;
 
           @media (max-width: 500px) {
-                  width:170px;
+                  min-width:140px;
+                       font-weight: 200px;
+
                 }
 
             &.circled {
