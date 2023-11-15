@@ -108,6 +108,26 @@ export const InfoFreeCourseContain = styled.section`
                     margin-bottom:0.2rem;
                 }
             }
+
+            ul{
+                font-size: 1rem;
+                line-height: 27.5px;
+                color: #404a61;
+                font-weight: 400;
+                margin-bottom:1.5rem;
+                list-style-type: square;
+
+                li{
+                    margin-left: 20px;
+                }
+
+
+
+                @media (max-width: 600px) {
+                    font-size: 14px;
+                    margin-bottom:0.2rem;
+                }
+            }
         }
     }
     a {

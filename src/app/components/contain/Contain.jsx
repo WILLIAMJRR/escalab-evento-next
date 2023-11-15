@@ -25,15 +25,28 @@ const Contain = ({ dataEvents }) => {
             {dataEvents[0].HeaderInfo.title}
             <span className='TextStrong'> {dataEvents[0].HeaderInfo.name}</span>
           </h1>
+          <div>
 
-          <div className='mentorFocus'>
-            <h3>
-              {dataEvents[0].teacher.name}
-              <figure>
-                <img src={dataEvents[0].assets.flag} alt='chile' />
-              </figure>
-            </h3>
-            <p>{dataEvents[0].teacher.focus}</p>
+            <div className='mentorFocus'>
+              <h3>
+                {dataEvents[0].teacher.name}
+                <figure>
+                  <img src={dataEvents[0].assets.flag} alt='chile' />
+                </figure>
+              </h3>
+              <p>{dataEvents[0].teacher.focus}</p>
+            </div>
+
+            <div className='mentorFocus'>
+              <h3>
+                {dataEvents[0].teacher_one.name}
+                <figure>
+                  <img src={dataEvents[0].assets.flag} alt='chile' />
+                </figure>
+              </h3>
+              <p>{dataEvents[0].teacher_one.focus}</p>
+            </div>
+
           </div>
 
           <div>
