@@ -26,6 +26,14 @@ const dataEvents = [
       insignea:
         '/assets/introduccion_azure/Insignia-azure-fundamentals.svg'
     },
+    teacher_one: {
+      focus: 'Vendor Business Manager',
+      name: 'Francisco García',
+      description:
+        'Ingeniero en redes con más de 10 años de experiencia en el área TI, conocimientos en cloud y administrador de soluciones en Aws, Azure y Gcp. Con conocimientos en DevOps, y entusiasta de metodologías agiles Scrum.',
+      linkedin:
+        'https://www.linkedin.com/in/miguel-chamorro-fuentes-844a6514a/'
+    },
     teacher: {
       focus: 'Solutions Architect | TCS.',
       name: 'Carlos Sarmiento',
@@ -39,23 +47,28 @@ const dataEvents = [
         title: 'Official Sponsor:',
         alt: 'Microsoft',
         img: '/assets/microsoft-logo.svg'
+      },
+      {
+        title: 'Organized by:',
+        alt: 'Escalab',
+        img: '/assets/TD Synnex - logo - GPTW_1.png'
       }
     ],
     InfoBox: {
       info: [
         {
-          header: 'Prepárate para dominar la nube y hacer crecer tu negocio con Azure',
+          header: 'Cómo convertirse en un socio de soluciones en Infraestructuras con Azure',
 
           description: 'Tanto si es nuevo en este campo como si es un profesional con experiencia, dominar los conceptos básicos de Microsoft Azure puede ayudarle a empezar a trabajar y prepararse para profundizar en las muchas oportunidades técnicas que ofrece Azure a nivel empresarial.',
 
-          title: '¿Realmente sirven las certificaciones ?',
-          parrafo1: ' En un mundo altamente competitivo, donde día a día más empresas comienzan a migrar sus operaciones entorno a la tecnología, es clave tener equipos y colaboradores altamente preparados en conocimientos específicos, que puedan ser un agente diferenciador en la toma de decisiones y propuesta de valor de la empresa.',
+          title: '¿Quieres impulsar tu negocio y ofrecer soluciones innovadoras en el ámbito de las infraestructuras??',
+          parrafo1: '¿Te gustaría obtener la designación como socio de soluciones en Infraestructuras de Microsoft y acceder a beneficios exclusivos?',
 
-          parrafo2: 'Microsoft Azure es una de las plataformas de computación en la nube más utilizadas por las empresas para construir, probar, desplegar y administrar aplicaciones o servicios.',
+          parrafo2: ' Entonces, no te pierdas esta charla, donde te explicaremos cómo tu empresa lo puede lograr mediante una ruta de aprendizaje personalizada y basada en las certificaciones de Azure.',
 
           parrafo3: 'Es por eso por lo que Escalab en colaboración con Microsoft ofrecerá cursos asociados a las 3 certificaciones oficiales ligadas a Azure para desarrolladores y lideres tecnológicos.',
 
-          parrafo4: '¿Sabías que teniendo las certificaciones medias y avanzadas en Azure puedes certificar a tus colaboradores como arquitecto de software en Azure ?',
+          parrafo4: 'En esta charla, aprenderás:',
 
           parrafo5: 'De esto y mucho más, hablaremos este próximo 28 de noviembre a las 18:30 Hrs.en las oficinas de Microsoft, ubicadas en Av.Vitacura 6844. Vitacura.En donde Carlos Sarmiento experto en Cloud nos relatara los principales beneficios, costos y oportunidades que nos puede ofrecer Azure y las certificaciones en torno a esta herramienta.',
 
