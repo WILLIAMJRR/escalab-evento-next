@@ -1,6 +1,7 @@
 'use client'
 import { useEffect, useState } from 'react'
 import { AboutTeacher } from './components/contain/AboutTeacher'
+import { AboutTeacherTwo } from './components/contain/AboutTeacherTwo'
 import Contain from './components/contain/Contain'
 import { InfoFreeCourse } from './components/contain/InfoFreeCourse'
 import { dataEvents } from '@/app/utils/dataEvents'
@@ -28,6 +29,8 @@ const Home = () => {
         <Contain dataEvents={dataEvents} />
         <InfoFreeCourse dataEvents={dataEvents} />
         <AboutTeacher dataEvents={dataEvents} />
+        <hr />
+        <AboutTeacherTwo dataEvents={dataEvents} />
         <FormPreSaleComponent dataEvents={dataEvents[0].preSale} />
       </main>
       <Footer />
