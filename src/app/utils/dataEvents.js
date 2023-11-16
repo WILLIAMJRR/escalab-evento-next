@@ -21,6 +21,7 @@ const dataEvents = [
       preSaleLogo: false,
       flag: '/assets/chile-flag.svg',
       headerTeacher: '/assets/introduccion_azure/Speaker-2.png',
+      headerTeacherTwo: '/assets/introduccion_azure/Francisco-García .png',
       background: '/assets/introduccion_azure/Background-event.png',
       teacher: '/events/fullstack_javascript/Miguel-Chamorro.png',
       insignea:
@@ -40,7 +41,13 @@ const dataEvents = [
       description:
         'Ingeniero en redes con más de 10 años de experiencia en el área TI, conocimientos en cloud y administrador de soluciones en Aws, Azure y Gcp. Con conocimientos en DevOps, y entusiasta de metodologías agiles Scrum.',
       linkedin:
-        'https://www.linkedin.com/in/miguel-chamorro-fuentes-844a6514a/'
+        'https://www.linkedin.com/in/carlos-sarmiento-c/'
+    },
+    teacher_two: {
+      focus: 'Vendor Business Manager',
+      name: 'Francisco García',
+      description: 'Ingeniero con amplia experiencia especializada en las plataformas de nube de Microsoft. Mi enfoque principal se centra en impulsar la transformación digital, respaldado por más de siete años de experiencia en destacadas empresas líderes en la industria de software y servicios. ',
+      linkedin: 'https://www.linkedin.com/in/francisco-garcia-godoy-91193b130/'
     },
     sponsor: [
       {
@@ -61,7 +68,7 @@ const dataEvents = [
 
           description: 'Tanto si es nuevo en este campo como si es un profesional con experiencia, dominar los conceptos básicos de Microsoft Azure puede ayudarle a empezar a trabajar y prepararse para profundizar en las muchas oportunidades técnicas que ofrece Azure a nivel empresarial.',
 
-          title: '¿Quieres impulsar tu negocio y ofrecer soluciones innovadoras en el ámbito de las infraestructuras??',
+          title: '¿Quieres impulsar tu negocio y ofrecer soluciones innovadoras en el ámbito de las infraestructuras?',
           parrafo1: '¿Te gustaría obtener la designación como socio de soluciones en Infraestructuras de Microsoft y acceder a beneficios exclusivos?',
 
           parrafo2: ' Entonces, no te pierdas esta charla, donde te explicaremos cómo tu empresa lo puede lograr mediante una ruta de aprendizaje personalizada y basada en las certificaciones de Azure.',
